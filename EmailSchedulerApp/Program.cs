@@ -1,7 +1,5 @@
 ﻿using EmailSchedulerApp;
 using System;
-using System.Collections.Generic;
-using QC = Microsoft.Data.SqlClient;
 
 namespace EmailScheduler
 {
